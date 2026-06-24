@@ -1,0 +1,2 @@
+image,output,timestamp
+,"{""label"": ""cardboard"", ""confidences"": [{""label"": ""cardboard"", ""confidence"": 0.5377318859100342}, {""label"": ""metal"", ""confidence"": 0.3960719406604767}, {""label"": ""plastic"", ""confidence"": 0.054931867867708206}, {""label"": ""glass"", ""confidence"": 0.006303216330707073}, {""label"": ""paper"", ""confidence"": 0.0027581260073930025}, {""label"": ""trash"", ""confidence"": 0.0022028707899153233}]}",2026-06-24 10:34:47.338719
